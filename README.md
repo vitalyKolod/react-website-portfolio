@@ -1,3 +1,9 @@
+My personal responsive portfolio website with using react, ts, tailwind css!
+
+![image alt](https://github.com/vitalyKolod/react-website-portfolio/blob/04e06fb2f4688f86b2be4d5e7ffb65a7aa2a8680/Screenshot%20from%202025-01-21%2012-07-21.png)
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
