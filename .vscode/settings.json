@@ -1,0 +1,7 @@
+{
+  "editor.wordWrap": "bounded",
+  "reactSnippets.settings.prettierEnabled": true,
+  "prettier.enable": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true
+}
