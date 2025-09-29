@@ -63,7 +63,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="mt-[1.4rem] w-[80%] mx-auto text-white opacity-70 text-center">
-        &#169; Copyright Kolodchenko Vitaly 2024
+        &#169; Copyright Kolodchenko Vitaly 2025
       </div>
     </div>
   );
